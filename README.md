@@ -39,6 +39,7 @@ Given the imbalance in the sizes of the positive and negative samples in the dat
 
 ## Important Results
 There are many low credit risk customers in the dataset. 
+
 <img width="244" alt="image" src="https://github.com/user-attachments/assets/c5ac5971-18b0-4496-a4b6-ef1c64393686" />
 
 Highest accuracy obtained with random forest model. - 78%
