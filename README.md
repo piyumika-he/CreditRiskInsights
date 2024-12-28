@@ -46,6 +46,7 @@ Highest accuracy obtained with random forest model. - 78%
 
 Consider the accuracy with comparison to the ROC curves. And the highest AUC value is 
 taken the random forest and LDA techniques. 
+
 <img width="445" alt="image" src="https://github.com/user-attachments/assets/eb7c7882-1cbc-4a4b-9d46-1fc1ff23ec57" />
 
 
